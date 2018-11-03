@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="update_synch=true" extends="sys_metadata" label="SMTest Table" max_length="40" name="x_smtest_table" type="collection"/>
+    <element attributes="update_synch=true" extends="sys_metadata" label="SMTest Table" max_length="40" name="x_smtest_table" type="collection">
+        <element label="Str1" max_length="40" name="str1" type="string"/>
+        <element label="Str2" max_length="40" name="str2" type="string"/>
+    </element>
 </database>
