@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-03 00:46:36</sys_created_on>
+        <sys_id>7c6acc69b5612300964ff55c089982b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_smtest_table.x_smtest.user</sys_name>
+        <sys_package display_value="SMTest" source="x_smtest">a06acc69b5612300964ff55c0899827e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SMTest">a06acc69b5612300964ff55c0899827e</sys_scope>
+        <sys_security_acl display_value="x_smtest_table">706acc69b5612300964ff55c089982b1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7c6acc69b5612300964ff55c089982b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-03 00:46:36</sys_updated_on>
+        <sys_user_role display_value="x_smtest.user" name="x_smtest.user">7c6acc69b5612300964ff55c08998261</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
